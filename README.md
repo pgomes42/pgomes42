@@ -1,4 +1,4 @@
-# Olá, eu sou o Paulo! 👋
+# Olá, eu sou o Pacheco! 👋
 
 Sou desenvolvedor apaixonado por tecnologia, atualmente estudante da 42 Luanda. Trabalho principalmente com Java, PHP, C e C++, além de ter experiência em bancos de dados MySQL, containers Docker, frontend com Bootstrap e computação em nuvem usando AWS.
 
